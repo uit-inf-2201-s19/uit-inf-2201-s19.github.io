@@ -1,0 +1,92 @@
+---
+layout: default
+title: Home
+---
+
+## Administrative information
+
+Course content, learning goals, and other administrative course information is available [here](https://uit.no/utdanning/emner/emne/590554/inf-2201?ar=2019&semester=V)
+
+The github organization for this course is: [github.com/uit-inf-2201-s19/](https://github.com/uit-inf-2201-s19/)
+
+We also have a Slack team [uit-inf-2201-s19](https://uit-inf-2201-s19.slack.com).
+
+We will use the following rooms:
+
+Lectures:
+* Tuesdays, 10:15-12:00, TEKNOBYGGET 1.022AUD
+* Wednesdays, 10:15-12:00, MH U6.A4AUD4
+* Thursdays, 12:15-14:00, Store Aud (REALF B302)
+
+Colloquium group 1:
+* Mondays, 10:15-12:00, REALF A051
+* Fridays, 12:15-14:00, REALF A051
+
+Colloquium group 2:
+* Mondays, 12:15-14:00, REALF A051
+* Fridays, 14:15-16:00, REALF A051
+
+Colloquium group 3:
+* Mondays, 10:15-12:00, REALF A053
+* Fridays, 12:15-14:00, REALF A053
+ 
+
+Refer to the lecture plan, Slack, and e-mails, for which room is used when.
+
+## Staff
+
+* Lars Ailo Bongo (larsab@cs.uit.no, A257)
+* Tore Brox-Larsen (tore@cs.uit.no, A254)
+
+## Lecture plan (will be updated)
+
+| Lecture | Date | Subject	    | Readings  | Lecturer  |
+|---------|------|--------------|-----------|-----------|
+| L1  | 15.01.19 | [Introduction](lectures/01-introduction.pptx) | MOS 1.1 - 1.3  | Lars Ailo |
+| L2  | - | IA32 OS Support and Protection | MOS 1.4 - 1.5 | Tore |
+| L3  | - | OS Structure | MOS 1.6 - 1.7; 12 | Tore |
+| L4  | - | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Tore |
+| L5  | - | Threads, Critical Sections | MOS 2.4 - 2.5 | Tore |
+| L6  | - | Preemtive Scheduling, Mutual Exclusion  | MOS 2.2 - 2.3.6 | Tore |
+| L7  | - | Semaphores | MOS 2.5 | Tore |
+| L8  | - | Monitors  | MOS 2.3.4 - 2.3.7 | Tore |
+| L9  | - | Thread Packages | MOS 2.2 | Tore |
+| L10 | - | Message passing | MOS 2.3.8 | Tore |
+| L11 | - | I/O Devices and Drivers  | MOS 5 | Tore |
+| L12 | - | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Tore |
+| L13 | - | Paging and VM Design | MOS 3.4 | Lars Ailo |
+| L14 | - | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Lars Ailo |
+| L15 | - | CPU Scheduling | MOS 2.4, 6 | Lars Ailo |
+| L16 | - | Deadlocks (no slides) | MOS 2.4, 6 | Lars Ailo |
+| L17 | - | Storage systems | MOS 5.4 | Lars Ailo |
+| L18 | - | File Systems | MOS 4.1 - 4.6 | Lars Ailo |
+| L19 | - | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
+| L20 | - | Virtual Machines and Containers | MOS 7 | Lars Ailo |
+| Easter | 16.04.19 | No lecture | | |
+| Easter | 18.04.19 | No lecture | | |
+
+## Readings
+
+Mandatory:
+
+1. Andrew S. Tanenbaum, Modern Operating Systems, 4th Ed., Pearson Educational Limited, 2015. ISBN 10: 1-292-06142-1. Chapters: 1-7, 12.
+
+Suggested additional readings:
+
+1. [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/). Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+
+
+## Mandatory assignments
+
+Note! The UiT rules regarding cheating on exams ["Kildebruk, plagiering og fusk på eksamen"](https://uit.no/om/enhet/artikkel?p_document_id=473719&p_dimension_id=88138&men=28714) (in Norwegian only) applies for all projects.
+
+Note that we do not make these assignments publicly available.
+
+| Project |	Precepts | Design review | Due | Subject|
+|---------|----------|----------|----------|---------|
+| P1      | 16.01.18 | 23.01.18 | 30.01.18 | Boot-up mechanism |
+| P2      | 30.01.18 | 06.02.18 | 20.02.18 | Non-preemptive scheduling |
+| P3      | 20.02.18 | 27.02.18 | 06.03.18 | Preemptive scheduling |
+| P4      | 06.03.18 | 13.03.18 | 27.03.18 | IPC and process management |
+| P5      | 27.03.18 | 03.04.18 | 25.04.18 | Virtual memory |
+| P6      | 25.04.17 | 02.05.18 | 22.05.18 | File system |
