@@ -9,7 +9,7 @@ Course content, learning goals, and other administrative course information is a
 
 The github organization for this course is: [github.com/uit-inf-2201-s19/](https://github.com/uit-inf-2201-s19/)
 
-We also have a Slack team [uit-inf-2201-s19](https://uit-inf-2201-s19.slack.com).
+We also have a Slack team [uit-inf-2201-s19](https://uit-inf-2201-s19.slack.com)
 
 We will use the following rooms:
 
