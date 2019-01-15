@@ -91,5 +91,5 @@ Note that we do not make these assignments publicly available.
 | P2      | 30.01.19 | 06.02.19 | 20.02.19 | Non-preemptive scheduling |
 | P3      | 20.02.19 | 27.02.19 | 06.03.19 | Preemptive scheduling |
 | P4      | 06.03.19 | 13.03.19 | 27.03.19 | IPC and process management |
-| P5      | 27.03.19 | 03.04.19 | 25.04.19 | Virtual memory |
-| P6      | 25.04.19 | 02.05.19 | 22.05.19 | File system |
+| P5      | 27.03.19 | 03.04.19 | 24.04.19 | Virtual memory |
+| P6      | 24.04.19 | 02.05.19 | 22.05.19 | File system |
