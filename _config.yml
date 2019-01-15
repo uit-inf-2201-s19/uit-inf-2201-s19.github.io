@@ -1,8 +1,8 @@
 # Site settings
-title: Inf-2201 Operating System Fundamentals (Spring 2018)
+title: Inf-2201 Operating System Fundamentals (Spring 2019)
 # email: larsab@cs.uit.no
 description: > # this means to ignore newlines until "baseurl:"
-  Inf-2201 Operating System Fundamentals, spring 2018, University of Tromsø. 
+  Inf-2201 Operating System Fundamentals, spring 2019, University of Tromsø. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://uit-inf-2201-s18.github.io/" 
 
