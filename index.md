@@ -37,13 +37,16 @@ Refer to the lecture plan, Slack, and e-mails, for which room is used when.
 
 * Lars Ailo Bongo (larsab@cs.uit.no, A257)
 * Tore Brox-Larsen (tore@cs.uit.no, A254)
+* David Kristoffersen (dkr011@post.uit.no )
+* Simon Solnes (sso128@post.uit.no)
+* Jo Inge Arnes (jo.i.arnes@uit.no )
 
 ## Lecture plan (will be updated)
 
 | Lecture | Date | Subject	    | Readings  | Lecturer  |
 |---------|------|--------------|-----------|-----------|
 | L1  | 15.01.19 | [Introduction](lectures/01-introduction.pptx) | MOS 1.1 - 1.3  | Lars Ailo |
-| L2  | - | IA32 OS Support and Protection | MOS 1.4 - 1.5 | Tore |
+| L2  | 17.01.19 | IA32 OS Support and Protection | MOS 1.4 - 1.5 | Tore |
 | L3  | - | OS Structure | MOS 1.6 - 1.7; 12 | Tore |
 | L4  | - | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Tore |
 | L5  | - | Threads, Critical Sections | MOS 2.4 - 2.5 | Tore |
