@@ -87,9 +87,9 @@ Note that we do not make these assignments publicly available.
 
 | Project |	Precepts | Design review | Due | Subject|
 |---------|----------|----------|----------|---------|
-| P1      | 16.01.19 | 23.01.19 | 30.01.19 | Boot-up mechanism |
-| P2      | 30.01.19 | 06.02.19 | 20.02.19 | Non-preemptive scheduling |
-| P3      | 20.02.19 | 27.02.19 | 06.03.19 | Preemptive scheduling |
-| P4      | 06.03.19 | 13.03.19 | 27.03.19 | IPC and process management |
-| P5      | 27.03.19 | 03.04.19 | 24.04.19 | Virtual memory |
-| P6      | 24.04.19 | 02.05.19 | 22.05.19 | File system |
+| P1      | 16.01.19 | 23.01.19 | 30.01.19 at 10:00 | Boot-up mechanism |
+| P2      | 30.01.19 | 06.02.19 | 20.02.19 at 10:00 | Non-preemptive scheduling |
+| P3      | 20.02.19 | 27.02.19 | 06.03.19 at 10:00 | Preemptive scheduling |
+| P4      | 06.03.19 | 13.03.19 | 27.03.19 at 10:00 | IPC and process management |
+| P5      | 27.03.19 | 03.04.19 | 24.04.19 at 10:00 | Virtual memory |
+| P6      | 24.04.19 | 02.05.19 | 22.05.19 at 10:00 | File system |
