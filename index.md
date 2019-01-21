@@ -43,6 +43,8 @@ Refer to the lecture plan, Slack, and e-mails, for which room is used when.
 
 ## Lecture plan (will be updated)
 
+All lecture notes are in the [lectures directory](https://github.com/uit-inf-2201-s19/uit-inf-2201-s19.github.io/tree/master/lectures) in the course homepage repository. 
+
 | Lecture | Date | Subject	    | Readings  | Lecturer  |
 |---------|------|--------------|-----------|-----------|
 | L1  | 15.01.19 | [Introduction](lectures/01-introduction.pptx) | MOS 1.1 - 1.3  | Lars Ailo |
