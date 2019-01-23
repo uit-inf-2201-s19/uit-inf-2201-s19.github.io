@@ -39,6 +39,7 @@ Refer to the lecture plan, Slack, and e-mails, for which room is used when.
 * Tore Brox-Larsen (tore@cs.uit.no, A254)
 * David Kristoffersen (dkr011@post.uit.no )
 * Simon Solnes (sso128@post.uit.no)
+* Emil Rydningen (ery007@post.uit.no)
 * Jo Inge Arnes (jo.i.arnes@uit.no )
 
 ## Lecture plan (will be updated)
