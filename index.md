@@ -82,7 +82,7 @@ Suggested additional readings:
 1. [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/). Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
 
 
-## Mandatory assignments
+## Mandatory assignments and home exams
 
 Note! The UiT rules regarding cheating on exams ["Kildebruk, plagiering og fusk på eksamen"](https://uit.no/om/enhet/artikkel?p_document_id=473719&p_dimension_id=88138&men=28714) (in Norwegian only) applies for all projects.
 
