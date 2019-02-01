@@ -59,8 +59,8 @@ All lecture notes are in the [lectures directory](https://github.com/uit-inf-220
 | L9  | 19.02.19| Thread Packages | MOS 2.2 | Tore |
 | L10 | 21.02.19| CPU Scheduling | MOS 2.4, 6 | Tore |
 | L11 | 28.02.19| Deadlocks | MOS 2.4, 6 | Tore |
-| L12 | 05.03.19| |Message passing | MOS 2.3.8 | Tore |
-| L13 | 06.03.19||I/O Devices and Drivers  | MOS 5 | Lars Ailo |
+| L12 | 05.03.19| Message passing | MOS 2.3.8 | Tore |
+| L13 | 07.03.19|I/O Devices and Drivers  | MOS 5 | Lars Ailo |
 | L14 | - |Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Lars Ailo |
 | L15 | - | Paging and VM Design | MOS 3.4 | Lars Ailo |
 | L16 | - | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Lars Ailo |
