@@ -53,17 +53,17 @@ All lecture notes are in the [lectures directory](https://github.com/uit-inf-220
 | L3  | - | OS Structure | MOS 1.6 - 1.7; 12 | Tore |
 | L4  | - | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Tore |
 | L5  | - | Threads, Critical Sections | MOS 2.4 - 2.5 | Tore |
-| L6  | - | Preemtive Scheduling, Mutual Exclusion  | MOS 2.2 - 2.3.6 | Tore |
-| L7  | - | Semaphores | MOS 2.5 | Tore |
-| L8  | - | Monitors  | MOS 2.3.4 - 2.3.7 | Tore |
-| L9  | - | Thread Packages | MOS 2.2 | Tore |
-| L10 | - | Message passing | MOS 2.3.8 | Tore |
-| L11 | - | I/O Devices and Drivers  | MOS 5 | Tore |
-| L12 | - | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Tore |
-| L13 | - | Paging and VM Design | MOS 3.4 | Lars Ailo |
-| L14 | - | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Lars Ailo |
-| L15 | - | CPU Scheduling | MOS 2.4, 6 | Lars Ailo |
-| L16 | - | Deadlocks (no slides) | MOS 2.4, 6 | Lars Ailo |
+| L6  | 07.02.19 | Preemtive Scheduling, Mutual Exclusion  | MOS 2.2 - 2.3.6 | Tore |
+| L7  | 12.02.19| Semaphores | MOS 2.5 | Tore |
+| L8  | 14.02.19| Monitors  | MOS 2.3.4 - 2.3.7 | Tore |
+| L9  | 19.02.19| Thread Packages | MOS 2.2 | Tore |
+| L10 | 21.02.19| CPU Scheduling | MOS 2.4, 6 | Tore |
+| L11 | 28.02.19| Deadlocks (no slides) | MOS 2.4, 6 | Tore |
+| L12 | 05.03.19| |Message passing | MOS 2.3.8 | Tore |
+| L13 | 06.03.19||I/O Devices and Drivers  | MOS 5 | Lars Ailo |
+| L14 | - |Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Lars Ailo |
+| L15 | - | Paging and VM Design | MOS 3.4 | Lars Ailo |
+| L16 | - | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Lars Ailo |
 | L17 | - | Storage systems | MOS 5.4 | Lars Ailo |
 | L18 | - | File Systems | MOS 4.1 - 4.6 | Lars Ailo |
 | L19 | - | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
