@@ -50,9 +50,9 @@ All lecture notes are in the [lectures directory](https://github.com/uit-inf-220
 |---------|------|--------------|-----------|-----------|
 | L1  | 15.01.19 | [Introduction](lectures/01-introduction.pptx) | MOS 1.1 - 1.3  | Lars Ailo |
 | L2  | 17.01.19 | IA32 OS Support and Protection | MOS 1.4 - 1.5 | Tore |
-| L3  | - | OS Structure | MOS 1.6 - 1.7; 12 | Tore |
-| L4  | - | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Tore |
-| L5  | - | Threads, Critical Sections | MOS 2.4 - 2.5 | Tore |
+| L3  | 22.01.19 | OS Structure | MOS 1.6 - 1.7; 12 | Tore |
+| L4  | 24.01.19 | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Tore |
+| L5  | 29.01.19 | Threads, Critical Sections | MOS 2.4 - 2.5 | Tore |
 | L6  | 07.02.19 | Preemtive Scheduling, Mutual Exclusion  | MOS 2.2 - 2.3.6 | Tore |
 | L7  | 12.02.19| Semaphores | MOS 2.5 | Tore |
 | L8  | 14.02.19| Monitors  | MOS 2.3.4 - 2.3.7 | Tore |
@@ -61,7 +61,7 @@ All lecture notes are in the [lectures directory](https://github.com/uit-inf-220
 | L11 | 28.02.19| Deadlocks | MOS 2.4, 6 | Tore |
 | L12 | 05.03.19| Message passing | MOS 2.3.8 | Tore |
 | L13 | 07.03.19|I/O Devices and Drivers  | MOS 5 | Lars Ailo |
-| L14 | - |Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Lars Ailo |
+| L14 |  |Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Lars Ailo |
 | L15 | - | Paging and VM Design | MOS 3.4 | Lars Ailo |
 | L16 | - | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Lars Ailo |
 | L17 | - | Storage systems | MOS 5.4 | Lars Ailo |
@@ -76,6 +76,8 @@ All lecture notes are in the [lectures directory](https://github.com/uit-inf-220
 Mandatory:
 
 1. Andrew S. Tanenbaum, Modern Operating Systems, 4th Ed., Pearson Educational Limited, 2015. ISBN 10: 1-292-06142-1. Chapters: 1-7, 12.
+2. All lecture notes.
+3. All projects.
 
 Suggested additional readings:
 
