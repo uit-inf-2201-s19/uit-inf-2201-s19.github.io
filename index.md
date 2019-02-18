@@ -57,7 +57,7 @@ All lecture notes are in the [lectures directory](https://github.com/uit-inf-220
 | L7  | 12.02.19| Semaphores | MOS 2.5 | Tore |
 | L8  | 19.02.19| Monitors  | MOS 2.3.4 - 2.3.7 | Tore |
 | L9  | 21.02.19| Thread Packages | MOS 2.2 | Lars Ailo |
-| L10 | 28.02.19| CPU Scheduling | MOS 2.4, 6 | Tore |
+| L10 | 19.02.19;28.2| CPU Scheduling | MOS 2.4, 6 | Tore |
 | L11 | 05.03.19| Deadlocks | MOS 2.4, 6 | Tore |
 | L12 | 07.03.19| Message passing | MOS 2.3.8 | Tore |
 | L13 | 14.03.19|I/O Devices and Drivers  | MOS 5 | Lars Ailo |
