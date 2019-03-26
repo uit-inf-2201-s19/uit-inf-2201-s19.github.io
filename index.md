@@ -61,13 +61,13 @@ All lecture notes are in the [lectures directory](https://github.com/uit-inf-220
 | L12 | 05.03.19 | Message passing | MOS 2.3.8 | Tore |
 | L13 | 07.03.19 | [I/O Devices and Drivers](lectures/13 - IO Devices.pptx)  | MOS 5 | Lars Ailo |
 | L14 | 19.03.19 | [Adress translation, Virtual memory](lectures/14 - Virtual Memory.pptx) | MOS 3.1 - 3.3, 3.7| Lars Ailo |
-| L15 | 21.03.19 | Paging and VM Design | MOS 3.4 | Lars Ailo |
+| L15 | 21.03.19 | [Paging and VM Design](lectures/15 - Paging and VM Deisgn.pptx) | MOS 3.4 | Lars Ailo |
 | L16 | 26.03.19 | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Lars Ailo |
-| L9  | 28.03.19 | Thread Packages | MOS 2.2 | Lars Ailo |
-| L17 | 04.04.19 | Storage systems | MOS 5.4 | Lars Ailo |
-| L18 | 09.04.19 | File Systems | MOS 4.1 - 4.6 | Lars Ailo |
-| L19 | 11.04.19 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
-| L20 | 16.04.19 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
+| L9  | 04.04.19 | Thread Packages | MOS 2.2 | Lars Ailo |
+| L17 | 09.04.19 | Storage systems | MOS 5.4 | Lars Ailo |
+| L18 | 11.04.19 | File Systems | MOS 4.1 - 4.6 | Lars Ailo |
+| L19 | 16.04.19 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
+| L20 | 25.04.19 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
 
 ## Readings
 
