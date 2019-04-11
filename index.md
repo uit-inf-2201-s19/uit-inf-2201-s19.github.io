@@ -65,7 +65,7 @@ All lecture notes are in the [lectures directory](https://github.com/uit-inf-220
 | L16 | 26.03.19 | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Lars Ailo |
 | L9  | 04.04.19 | [Thread Packages](lectures/09 - Thread Packages.pptx) | MOS 2.2 | Lars Ailo |
 | L17 | 09.04.19 | [Storage systems](lectures/17 - Storage Systems.pptx) | MOS 5.4 | Lars Ailo |
-| L18 | 11.04.19 | File Systems | MOS 4.1 - 4.6 | Lars Ailo |
+| L18 | 11.04.19 | [File Systems](lectures/18 - File Systems.pptx) | MOS 4.1 - 4.6 | Lars Ailo |
 | L19 | 16.04.19 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
 | L20 | 25.04.19 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
 
